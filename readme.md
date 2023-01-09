@@ -11,8 +11,8 @@ This circuit allows user to add, subtract, multiply and divide two numbers. The 
 2. Open "PROJECT.circ" file with "Logisim".\
 <img src="https://iili.io/H7YbZMu.png" width="600px"/>
 
-3. Enter the first number "A" in binary form, also for the second number "B" by using the the switchs.
-4. From numeric input "Mode", choose the operation to executed on the two number "A" and "B".
+3. Enter the first number "A" in binary form, also for the second number "B" by using the the switches.
+4. From numeric input "Mode", choose the operation to be executed on the two number "A" and "B".
 - 00 for addition
 - 01 for subtraction
 - 10 for multiplication
