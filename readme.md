@@ -1,5 +1,5 @@
 # Arithmetic Unit Circuit
-An arithmetic unit circuit capable of adding, subtracting and multiplying two signed magnitude numbers, implemented using Logisim.
+An arithmetic unit circuit capable of adding, subtracting and multiplying two signed numbers, implemented using Logisim.
 
 
 ## Overview 
