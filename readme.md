@@ -7,8 +7,8 @@ This circuit allows user to add, subtract, multiply and divide two numbers. The 
 
 
 ## How to Use
-1. Download "Logisim".
-2. Open "PROJECT.circ" file with "Logisim".\
+1. Download "Logisim" and install it.
+2. Open "PROJECT.circ" file with "Logisim".
 <img src="https://iili.io/H7YbZMu.png" width="600px"/>
 
 3. Enter the first number "A" in binary form, also for the second number "B" by using the the switches.
